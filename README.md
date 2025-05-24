@@ -11,6 +11,13 @@ Aspiring Cybersecurity Professional | CompTIA Security+ and Google Cybersecurity
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/bf252a19-4cdf-41b7-a31e-1dff74a7c193/public_url)
 
 ---
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM (Splunk)         | <a href="https://google.com">Investigating Backdoor Activity Across Suspected Hosts Using Splunk</a>|
+
 ## 📌 Featured Practical Projects
 
 - [Investigating Backdoor Activity Across Suspected Hosts Using Splunk](https://github.com/AmanuelT29/Investigating-Backdoor-Activity-Across-Suspected-Hosts-Using-Splunk)
