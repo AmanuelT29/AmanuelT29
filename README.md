@@ -1,9 +1,8 @@
 # Hello, I'm Amanuel
+**Aspiring Cybersecurity Professional**
+
 <a href="https://www.linkedin.com/in/amanuel-tafesse-033ba0328"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
-Aspiring Cybersecurity Professional | CompTIA Security+ and Google Cybersecurity Certified
-
+___
 
 ## Certifications
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=compTIA&logoColor=white)](https://www.credly.com/badges/a851ba90-e825-4bf2-a08c-63604fc928ae/public_url)
@@ -15,6 +14,8 @@ Aspiring Cybersecurity Professional | CompTIA Security+ and Google Cybersecurity
 ## 📌 Featured Practical Projects
 
 - **[Investigating Backdoor Activity Across Suspected Hosts Using Splunk](https://github.com/AmanuelT29/Investigating-Backdoor-Activity-Across-Suspected-Hosts-Using-Splunk)**
+___
+
 
 ## Skills
 
@@ -22,4 +23,27 @@ Aspiring Cybersecurity Professional | CompTIA Security+ and Google Cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM (Splunk)         |**[Investigating Backdoor Activity Across Suspected Hosts Using Splunk](https://github.com/AmanuelT29/Investigating-Backdoor-Activity-Across-Suspected-Hosts-Using-Splunk)**|
 
+___
+## Tools
 
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NetworkMiner-2E8B57?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-CC0033?style=for-the-badge&logoColor=white" />
+  
+
+### Endpoint
+<div>
+ <img src="https://img.shields.io/badge/-Sysinternals_Suite-333333?style=for-the-badge&logo=microsoft&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Windows_Core_Processes-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+
+
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+
+</div>
