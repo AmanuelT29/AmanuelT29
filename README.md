@@ -11,7 +11,7 @@ ___
 
 ---
 
-## 💻 Practical Projects
+## 🕵🏾‍♂️💻 Practical Projects
 
 - **[Investigating Backdoor Activity Across Suspected Hosts Using Splunk](https://github.com/AmanuelT29/Investigating-Backdoor-Activity-Across-Suspected-Hosts-Using-Splunk)**
 ___
