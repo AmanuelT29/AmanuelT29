@@ -45,5 +45,5 @@ ___
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-<img src="https://logos-world.net/wp-content/uploads/2022/11/Splunk-Emblem.png" alt="Splunk Logo" width="190"/>
+
 </div>
