@@ -12,13 +12,14 @@ Aspiring Cybersecurity Professional | CompTIA Security+ and Google Cybersecurity
 
 ---
 
+## 📌 Featured Practical Projects
+
+- **[Investigating Backdoor Activity Across Suspected Hosts Using Splunk](https://github.com/AmanuelT29/Investigating-Backdoor-Activity-Across-Suspected-Hosts-Using-Splunk)**
+
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM (Splunk)         | <a href="https://google.com">Investigating Backdoor Activity Across Suspected Hosts Using Splunk</a>|
+| SIEM (Splunk)         |**[Investigating Backdoor Activity Across Suspected Hosts Using Splunk](https://github.com/AmanuelT29/Investigating-Backdoor-Activity-Across-Suspected-Hosts-Using-Splunk)**|
 
-## 📌 Featured Practical Projects
-
-- [Investigating Backdoor Activity Across Suspected Hosts Using Splunk](https://github.com/AmanuelT29/Investigating-Backdoor-Activity-Across-Suspected-Hosts-Using-Splunk)
 
