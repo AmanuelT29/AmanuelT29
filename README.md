@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/amanuel-tafesse-033ba0328"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ___
 
-## 🔖✅ Certifications
+## ✅ Certifications
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=compTIA&logoColor=white)](https://www.credly.com/badges/a851ba90-e825-4bf2-a08c-63604fc928ae/public_url)
 
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/bf252a19-4cdf-41b7-a31e-1dff74a7c193/public_url)
@@ -54,4 +54,27 @@ ___
 
 ### Operating Systems 
 
+<a href="https://www.microsoft.com/windows">
+  <img src="https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white" alt="Windows Support"/>
+</a>
+<a href="https://www.linux.org">
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black" alt="Linux Support"/>
+</a>
+<a href="https://www.apple.com/macos/">
+  <img src="https://img.shields.io/badge/OS-macOS-000000?logo=apple&logoColor=white" alt="macOS Support"/>
+</a>
+
+
+
 ### Languages
+
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+</a>
+<a href="https://docs.microsoft.com/powershell/">
+  <img src="https://img.shields.io/badge/Shell-PowerShell-5391FE?logo=powershell&logoColor=white" alt="PowerShell"/>
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+</a>
+
