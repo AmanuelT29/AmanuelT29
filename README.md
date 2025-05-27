@@ -52,6 +52,6 @@ ___
 
 </div>
 
-### 🖥️🍎🐧Operating Systems 
+### Operating Systems 
 
-### 📊🐍Languages
+### Languages
