@@ -24,7 +24,7 @@ ___
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM (Splunk)         |**[Investigating Backdoor Activity Across Suspected Hosts Using Splunk](https://github.com/AmanuelT29/Investigating-Backdoor-Activity-Across-Suspected-Hosts-Using-Splunk)**|
-| Active Directory      |**[Organizing Workstations and Servers in Active Directory](https://github.com/AmanuelT29/Organizing-Workstations-and-Servers-in-Active-Directory)**|
+| Active Directory   |**[Organizing Workstations and Servers in Active Directory](https://github.com/AmanuelT29/Organizing-Workstations-and-Servers-in-Active-Directory)**|
 
 
 ___
