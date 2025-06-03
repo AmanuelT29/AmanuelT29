@@ -16,6 +16,7 @@ ___
 - **[Investigating Backdoor Activity Across Suspected Hosts Using Splunk](https://github.com/AmanuelT29/Investigating-Backdoor-Activity-Across-Suspected-Hosts-Using-Splunk)**
 - **[Organizing Workstations and Servers in Active Directory](https://github.com/AmanuelT29/Organizing-Workstations-and-Servers-in-Active-Directory)**
 - **[Managing Directory and File Permissions in Linux](https://github.com/AmanuelT29/Managing-Directory-and-File-Permissions-in-Linux)**
+- **[Okta SSO Integration with Salesforce](https://github.com/AmanuelT29/Okta-SSO-Integration-with-Salesforce/tree/main)**
   
 ___
 
@@ -27,6 +28,7 @@ ___
 | SIEM (Splunk)         |**[Investigating Backdoor Activity Across Suspected Hosts Using Splunk](https://github.com/AmanuelT29/Investigating-Backdoor-Activity-Across-Suspected-Hosts-Using-Splunk)**|
 | Active Directory   |**[Organizing Workstations and Servers in Active Directory](https://github.com/AmanuelT29/Organizing-Workstations-and-Servers-in-Active-Directory)**|
 | Linux Command Line|**[Managing Directory and File Permissions in Linux](https://github.com/AmanuelT29/Managing-Directory-and-File-Permissions-in-Linux)**|
+| IAM (Okta) |**[Okta SSO Integration with Salesforce](https://github.com/AmanuelT29/Okta-SSO-Integration-with-Salesforce/tree/main)**|
 
 
 ___
@@ -79,4 +81,13 @@ ___
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white" alt="Python"/>
 </a>
+
+
+### Cloud-based Authentication Service
+
+<a href="https://www.okta.com/login/">
+  <img src="https://img.shields.io/badge/Platform-Okta-0073E6?logo=okta&logoColor=white" alt="Okta Login"/>
+</a>
+
+
 
