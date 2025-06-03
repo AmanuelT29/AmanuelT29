@@ -16,7 +16,7 @@ ___
 - **[Investigating Backdoor Activity Across Suspected Hosts Using Splunk](https://github.com/AmanuelT29/Investigating-Backdoor-Activity-Across-Suspected-Hosts-Using-Splunk)**
 - **[Organizing Workstations and Servers in Active Directory](https://github.com/AmanuelT29/Organizing-Workstations-and-Servers-in-Active-Directory)**
 - **[Managing Directory and File Permissions in Linux](https://github.com/AmanuelT29/Managing-Directory-and-File-Permissions-in-Linux)**
-- **[Okta SSO Integration with Salesforce](https://github.com/AmanuelT29/Okta-SSO-Integration-with-Salesforce/tree/main)**
+- **[Okta SSO Integration with Salesforce](https://github.com/AmanuelT29/Okta-SSO-Integration-with-Salesforce)**
   
 ___
 
