@@ -17,6 +17,7 @@ ___
 - **[Organizing Workstations and Servers in Active Directory](https://github.com/AmanuelT29/Organizing-Workstations-and-Servers-in-Active-Directory)**
 - **[Managing Directory and File Permissions in Linux](https://github.com/AmanuelT29/Managing-Directory-and-File-Permissions-in-Linux)**
 - **[Okta SSO Integration with Salesforce](https://github.com/AmanuelT29/Okta-SSO-Integration-with-Salesforce)**
+- **[Reset Password via PowerShell](https://github.com/AmanuelT29/Reset-Password-via-PowerShell)**
   
 ___
 
@@ -29,6 +30,7 @@ ___
 | Active Directory   |**[Organizing Workstations and Servers in Active Directory](https://github.com/AmanuelT29/Organizing-Workstations-and-Servers-in-Active-Directory)**|
 | Linux Command Line|**[Managing Directory and File Permissions in Linux](https://github.com/AmanuelT29/Managing-Directory-and-File-Permissions-in-Linux)**|
 | IAM (Okta) |**[Okta SSO Integration with Salesforce](https://github.com/AmanuelT29/Okta-SSO-Integration-with-Salesforce)**|
+| PowerShell |**[Reset Password via PowerShell](https://github.com/AmanuelT29/Reset-Password-via-PowerShell)**|
 
 
 ___
