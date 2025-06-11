@@ -1,7 +1,7 @@
 # Hello, I'm Amanuel
 **Aspiring Cybersecurity Professional**
 
-<a href="https://www.linkedin.com/in/amanuel-tafesse-033ba0328"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amanuelt29"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ___
 
 ## ✅ Certifications
