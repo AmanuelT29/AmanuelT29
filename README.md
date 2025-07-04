@@ -42,6 +42,15 @@ ___
 ___
 ## 🧰⚙️Tools
 
+### Cloud-based Authentication Service
+
+<a href="https://www.okta.com/login/">
+  <img src="https://img.shields.io/badge/Platform-Okta-0073E6?logo=okta&logoColor=white" alt="Okta Login"/>
+</a> <a href="https://entra.microsoft.com/">
+  <img src="https://img.shields.io/badge/Platform-Microsoft%20Entra%20ID-0078D4?logo=microsoft&logoColor=white" alt="Microsoft Entra ID"/>
+</a>
+
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -91,11 +100,7 @@ ___
 </a>
 
 
-### Cloud-based Authentication Service
 
-<a href="https://www.okta.com/login/">
-  <img src="https://img.shields.io/badge/Platform-Okta-0073E6?logo=okta&logoColor=white" alt="Okta Login"/>
-</a>
 
 
 
