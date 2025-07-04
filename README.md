@@ -22,6 +22,7 @@ ___
 - **[Managing Directory and File Permissions in Linux](https://github.com/AmanuelT29/Managing-Directory-and-File-Permissions-in-Linux)**
 - **[Okta SSO Integration with Salesforce](https://github.com/AmanuelT29/Okta-SSO-Integration-with-Salesforce)**
 - **[Reset Password via PowerShell](https://github.com/AmanuelT29/Reset-Password-via-PowerShell)**
+- **[Entra ID Bulk User Creation](https://github.com/AmanuelT29/Entra-ID-Bulk-User-Creation)**
   
 ___
 
@@ -35,6 +36,7 @@ ___
 | Linux Command Line|**[Managing Directory and File Permissions in Linux](https://github.com/AmanuelT29/Managing-Directory-and-File-Permissions-in-Linux)**|
 | IAM (Okta) |**[Okta SSO Integration with Salesforce](https://github.com/AmanuelT29/Okta-SSO-Integration-with-Salesforce)**|
 | PowerShell |**[Reset Password via PowerShell](https://github.com/AmanuelT29/Reset-Password-via-PowerShell)**|
+| IAM (Entra ID)|**[Entra ID Bulk User Creation](https://github.com/AmanuelT29/Entra-ID-Bulk-User-Creation)**|       
 
 
 ___
