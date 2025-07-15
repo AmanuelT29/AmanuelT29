@@ -23,6 +23,7 @@ ___
 - **[Okta SSO Integration with Salesforce](https://github.com/AmanuelT29/Okta-SSO-Integration-with-Salesforce)**
 - **[Reset Password via PowerShell](https://github.com/AmanuelT29/Reset-Password-via-PowerShell)**
 - **[Microsoft Entra ID Bulk User Creation](https://github.com/AmanuelT29/Microsoft-Entra-ID-Bulk-User-Creation)**
+- **[Install Microsoft Graph PowerShell](https://github.com/AmanuelT29/Install-Microsoft-Graph-PowerShell)**
   
 ___
 
@@ -34,9 +35,10 @@ ___
 | SIEM (Splunk)         |**[Investigating Backdoor Activity Across Suspected Hosts Using Splunk](https://github.com/AmanuelT29/Investigating-Backdoor-Activity-Across-Suspected-Hosts-Using-Splunk)**|
 | Active Directory   |**[Organizing Workstations and Servers in Active Directory](https://github.com/AmanuelT29/Organizing-Workstations-and-Servers-in-Active-Directory)**|
 | Linux Command Line|**[Managing Directory and File Permissions in Linux](https://github.com/AmanuelT29/Managing-Directory-and-File-Permissions-in-Linux)**|
-| IAM (Okta) |**[Okta SSO Integration with Salesforce](https://github.com/AmanuelT29/Okta-SSO-Integration-with-Salesforce)**|
+| Okta (IAM) |**[Okta SSO Integration with Salesforce](https://github.com/AmanuelT29/Okta-SSO-Integration-with-Salesforce)**|
 | PowerShell |**[Reset Password via PowerShell](https://github.com/AmanuelT29/Reset-Password-via-PowerShell)**|
-| IAM (Microsoft Entra ID)|**[Microsoft Entra ID Bulk User Creation](https://github.com/AmanuelT29/Microsoft-Entra-ID-Bulk-User-Creation)**|       
+| Microsoft Entra ID (IAM)|**[Microsoft Entra ID Bulk User Creation](https://github.com/AmanuelT29/Microsoft-Entra-ID-Bulk-User-Creation)**|    
+| Microsoft Graph (IAM) |**[Install Microsoft Graph PowerShell](https://github.com/AmanuelT29/Install-Microsoft-Graph-PowerShell)**|
 
 
 ___
