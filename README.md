@@ -1,6 +1,7 @@
 # Hello, I'm Amanuel
 **Aspiring Cybersecurity Professional**
 
+
 ---
 
 ## 🌐 Connect with Me:
@@ -24,7 +25,7 @@ ___
 - **[Reset Password via PowerShell](https://github.com/AmanuelT29/Reset-Password-via-PowerShell)**
 - **[Microsoft Entra ID Bulk User Creation](https://github.com/AmanuelT29/Microsoft-Entra-ID-Bulk-User-Creation)**
 - **[Install Microsoft Graph PowerShell](https://github.com/AmanuelT29/Install-Microsoft-Graph-PowerShell)**
-- **[Add and Remove Users with MicrosoftGraph PowerShell ISE](https://github.com/AmanuelT29/Add-and-Remove-Users-with-Microsoft-Graph-PowerShell-ISE)**
+- **[Add and Remove Users with Microsoft Graph PowerShell ISE](https://github.com/AmanuelT29/Add-and-Remove-Users-with-Microsoft-Graph-PowerShell-ISE)**
   
 ___
 
@@ -40,7 +41,7 @@ ___
 | PowerShell |**[Reset Password via PowerShell](https://github.com/AmanuelT29/Reset-Password-via-PowerShell)**|
 | Microsoft Entra ID (IAM)|**[Microsoft Entra ID Bulk User Creation](https://github.com/AmanuelT29/Microsoft-Entra-ID-Bulk-User-Creation)**|    
 | Microsoft Graph (IAM) |**[Install Microsoft Graph PowerShell](https://github.com/AmanuelT29/Install-Microsoft-Graph-PowerShell)**|
-| Microsoft Graph (IAM)  |**[Add and Remove Users with MicrosoftGraph PowerShell ISE](https://github.com/AmanuelT29/Add-and-Remove-Users-with-Microsoft-Graph-PowerShell-ISE)**|
+| Microsoft Graph (IAM)  |**[Add and Remove Users with Microsoft Graph PowerShell ISE](https://github.com/AmanuelT29/Add-and-Remove-Users-with-Microsoft-Graph-PowerShell-ISE)**|
 
 
 ___
