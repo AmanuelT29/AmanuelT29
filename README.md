@@ -26,6 +26,7 @@ ___
 - **[Microsoft Entra ID Bulk User Creation](https://github.com/AmanuelT29/Microsoft-Entra-ID-Bulk-User-Creation)**
 - **[Install Microsoft Graph PowerShell](https://github.com/AmanuelT29/Install-Microsoft-Graph-PowerShell)**
 - **[Add and Remove Users with Microsoft Graph PowerShell ISE](https://github.com/AmanuelT29/Add-and-Remove-Users-with-Microsoft-Graph-PowerShell-ISE)**
+- **[Microsoft Entra ID SSO Integration with Salesforce](https://github.com/AmanuelT29/Microsoft-Entra-SSO-Integration-with-Salesforce)**
   
 ___
 
@@ -42,6 +43,7 @@ ___
 | Microsoft Entra ID (IAM)|**[Microsoft Entra ID Bulk User Creation](https://github.com/AmanuelT29/Microsoft-Entra-ID-Bulk-User-Creation)**|    
 | Microsoft Graph (IAM) |**[Install Microsoft Graph PowerShell](https://github.com/AmanuelT29/Install-Microsoft-Graph-PowerShell)**|
 | Microsoft Graph (IAM)  |**[Add and Remove Users with Microsoft Graph PowerShell ISE](https://github.com/AmanuelT29/Add-and-Remove-Users-with-Microsoft-Graph-PowerShell-ISE)**|
+| Microsoft Entra ID (IAM)  |**[Microsoft Entra ID SSO Integration with Salesforce](https://github.com/AmanuelT29/Microsoft-Entra-SSO-Integration-with-Salesforce)**|
 
 
 ___
