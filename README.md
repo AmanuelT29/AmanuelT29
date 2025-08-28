@@ -12,6 +12,9 @@ ___
 ## ✅ Certifications
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=compTIA&logoColor=white)](https://www.credly.com/badges/a851ba90-e825-4bf2-a08c-63604fc928ae/public_url)
 
+[![Microsoft SC-300](https://img.shields.io/badge/Microsoft-SC--300%20Certified-2A77B9?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AmanuelTafesse-1205/8B6D5C3DA0F428F2?sharingId=BA3D1DE9E23F010E)
+
+
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/bf252a19-4cdf-41b7-a31e-1dff74a7c193/public_url)
 
 ---
